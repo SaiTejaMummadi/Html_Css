@@ -1,0 +1,17 @@
+body{
+        background-color: aqua;
+}
+div{
+    height:100%;
+    width:60%;
+    margin:0 auto;
+    border:2px groove blueviolet;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+img{
+        border: 5px dashed gold;
+    border-radius: 20%;
+    margin:0 auto;
+}
