@@ -1,0 +1,23 @@
+[target]{
+    color:hotpink;
+    border: 3px solid deeppink;
+
+}
+
+#qw:link{
+    color: mediumturquoise;
+}
+#qw:visited{
+    color: lawngreen;
+}
+#qw:hover{
+    color: chocolate;
+}
+#qw:active{
+    color: lightgoldenrodyellow;
+}
+p:first-letter{
+    font-family: "Arial Black";
+    font-size: x-large;
+    line-height: .5;
+}
