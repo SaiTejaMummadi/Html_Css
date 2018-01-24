@@ -1,0 +1,34 @@
+.qw{
+    font-family: Arial, serif;
+    font-size: large;
+    font-style: italic;
+}
+.we{
+    font-family: sans-serif,Arial;
+    font-size: 1em;
+    font-style: oblique;
+}
+.sdf{
+    font-family: 'Crete Round', serif;
+    font-size: 2.5rem;
+    font-style: italic;
+    text-indent: 300px;
+}
+.qws{
+    font-family:'Crete Round', serif;
+    /*text-transform:uppercase;*/
+    font-variant: small-caps;
+    font-size: x-large;
+    letter-spacing: 2rem;
+
+}
+h1{
+    text-shadow: 5px 5px 3px pink;
+    color: lawngreen;
+    font-size: 15rem;
+    text-align: center;
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+}
