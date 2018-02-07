@@ -1,0 +1,61 @@
+#qwerty{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("../img/background-photo-mobile-devices.jpg");
+    background-size:cover;
+    background-origin: border-box;
+    background-position:top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.indiv1{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content:space-around;
+    align-items: center;
+    height: 220px;
+    /*border:2px dashed hotpink;*/
+}
+.inh1{
+    font-family:'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: whitesmoke;
+    text-align: center;
+}
+.inh2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: whitesmoke;
+    text-align: center;
+
+}
+.inh3{
+    font-family:    'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 1.3rem;
+    color: whitesmoke;
+    text-align: center ;
+}
+.inb{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    color: whitesmoke;
+    font-size: 1.2rem;
+    background-color: rgba(57,255,152,.5);
+    padding: 3px 2px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+.indiv2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: column nowrap;
+    height: 90px;
+
+}

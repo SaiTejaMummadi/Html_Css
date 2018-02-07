@@ -1,0 +1,17 @@
+div{
+    height: 30px;
+    width:60px;
+    border:3px solid bisque;
+    border-radius: 20%;
+    display:inline-block;
+}
+body :nth-child(4n+1){
+    background-color: lawngreen;
+}
+body:nth-child(4n+3){
+    background-color: hotpink;
+}
+
+body:nth-child(4n+2) {
+    background-color:blue;
+}
